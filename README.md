@@ -1,6 +1,7 @@
 # Weave Bio - Code Challenge Solution
 
 The ultimate solution for the [code challenge](https://github.com/weavebio/data-engineering-coding-challenge) proposed by Weave Bio.
+
 ![](https://github.com/scoorpionx/weavebio-code-challenge/blob/main/upload/header.gif)
 
 ## Requirements
