@@ -1,0 +1,5 @@
+cx_oracle
+psycopg2-binary
+PyMySQL
+xmltodict
+neo4j

@@ -1,0 +1,9 @@
+neo4j/conf/*  
+neo4j/data/*  
+neo4j/import/*  
+neo4j/logs/*  
+neo4j/plugins/*
+logs/*/
+
+__pycache__
+.env
